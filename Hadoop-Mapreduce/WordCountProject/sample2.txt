@@ -1,0 +1,7 @@
+
+This is a sample text file for testing the Hadoop MapReduce job.
+The file contains multiple lines of text to demonstrate the word count functionality.
+Each line of text will be processed by the MapReduce job to count the occurrences of each word.
+The output will show the frequency of each word in the file.
+This is a great way to test the Hadoop MapReduce job and ensure it is working correctly.
+
