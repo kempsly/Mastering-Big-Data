@@ -1,0 +1,20 @@
+# Sample Data for Spark Processing
+
+This is a sample text file that we can use for Spark processing in Databricks or any Spark environment.
+
+- Spark is a powerful distributed computing system.
+- It is used for big data processing and analytics.
+- You can use Spark for batch and real-time data processing.
+
+Below are some random numbers and strings to simulate varied data:
+
+1234, 5678, 91011
+hello world
+spark, big data, processing, analytics
+
+Here are some JSON-like data entries:
+{"name": "John", "age": 30, "city": "New York"}
+{"name": "Alice", "age": 25, "city": "Los Angeles"}
+{"name": "Bob", "age": 28, "city": "Chicago"}
+
+Let's use this file to test Spark transformations.
